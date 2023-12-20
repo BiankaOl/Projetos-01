@@ -1,0 +1,53 @@
+html{
+    background-color:aquamarine;
+}
+
+.body{
+    margin: 0%;
+    justify-content: space-between;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    align-items: center;
+}
+
+
+.nav{
+    background-color:violet;
+}
+
+.nav-lista{
+    display: flex;
+    list-style: none;
+    color: whitesmoke;
+    padding: 20px 0px;
+    margin: 0px;
+    justify-content: space-around;
+    font-size: 30px;
+    font-weight: bolder;
+}
+
+.titulo-site{
+    text-align: center;
+    color: silver;
+    font-family: inherit;
+    position: absolute;
+    top: 70px;
+    width: 100%;
+}
+
+.sub-titulo{
+    text-align: center;
+    color: yellow;
+    font-family: inherit;
+    position: absolute;
+    top: 130px;
+    padding: 10px 0px;
+}
+
+foote{
+    background-color: blueviolet;
+    text-align: center;
+    color: aquamarine;
+    
+}

@@ -1,0 +1,60 @@
+h1{
+    margin: 0;
+    padding:20px;
+    text-align: center;
+    background-color:#333333;
+    color: #fff;
+}
+
+h2{
+    margin: 0;
+    text-align: center;
+    background-color: #333333;
+    color: white;
+    font-family: Arial, sans-serif;
+    padding: 10px;
+}
+
+body{
+    font-family: Arial, sans-serif;
+}
+
+
+.lista-card{
+    background-color:aquamarine;
+    color: #fff;
+    display: flex;
+    list-style: none;
+    padding: 5px 0;
+    margin: 0px;
+    justify-content: space-around;
+    font-size: 30px;
+    font-weight: bolder;
+
+
+}
+
+.card{
+    margin: 15px;
+    width: fit-content;
+    font-size: 90%;
+    color: #333;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+
+nav{
+    background-color: violet;
+    color: #fff;
+
+}
+
+
+
+footer{
+    text-align: center;
+    background-color: #333;
+    padding:0;
+    margin:0;
+}
